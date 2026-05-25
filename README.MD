@@ -32,7 +32,7 @@ This system uses **Content-Based Filtering**:
 * Pandas
 * Scikit-learn
 * Streamlit
-* TMDB API (for posters & ratings)
+* TMDB API (for posters images & ratings)
 
 ---
 
